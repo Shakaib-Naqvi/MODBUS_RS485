@@ -1,3 +1,3 @@
 
 "# MODBUS_RS485" 
-#Coolmay HMI
+#Coolmay TK 6070  HMI
